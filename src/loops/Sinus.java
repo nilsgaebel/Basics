@@ -16,7 +16,7 @@ public class Sinus {
 		int sinuscount = -40;
 		int z;
 
-		// X-Achse!
+		// X-Achse!2
 		z = (int) (a + b * Math.sin(t / c * 2 * Math.PI));
 
 		for (int i = 0; i < 80; i++) {
